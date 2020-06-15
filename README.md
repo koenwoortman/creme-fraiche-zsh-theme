@@ -25,10 +25,10 @@ zplug koenwoortman/creme-fraiche-zsh-theme, from:github, as:theme
 | **`THEME_VI_INS_MODE_SYMBOL`**   | Icon used to indicate insert mode when using VI keybindings.                                   | `λ`            |
 | **`THEME_VI_CMD_MODE_SYMBOL`**   | Icon used to indicate normal mode when using VI keybindings.                                   | `ᐅ`            |
 
-## Options
+## Credits
 
 * https://github.com/tardypad/dotfiles
-* South Park
+* Randy Marsh
 <p align="center">
   <img src="https://github.com/koenwoortman/creme-fraiche-zsh-theme/blob/master/assets/fraaaiche.gif" alt="Credits to South Park">
 </p>
